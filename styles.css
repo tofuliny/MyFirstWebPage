@@ -1,0 +1,50 @@
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: right;
+    margin: 20px;
+}
+
+.logo {
+    margin: 20px 20px 20px 200px;
+}
+
+
+li a {
+    display: block 18px 18px 1100px;
+    padding: 8px;
+    font-size: 25px;
+    color: #ff0099
+}
+
+div {
+    color: black;
+    font-size: 25px;
+    padding: 10%;
+    font-family: 'Courier New', Courier, monospace
+} 
+
+h1 {
+    font-size: 60px;
+}
+
+.podnadpis {
+    color: #ff0099;
+}
+
+.separator {
+    text-align: center;
+}
+
+.podnadpis2 {
+    text-align: center;
+}
+
+.smaller {
+    font-size: 20px;
+}
